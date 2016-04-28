@@ -27,7 +27,7 @@ html
 iframe {
 	text-align: center;
     padding: 1px;
-    background-color: lightblue;
+    background-color: green;
     border-radius: 20px 20px 20px 20px;
     border: solid grey 1px;
 	
@@ -36,7 +36,7 @@ iframe {
 {
 	text-align: center;
     padding: 1px;
-    background-color: lightblue;
+    background-color: yellow;
         border-radius: 20px 20px 20px 20px;
     border: solid grey 1px;
 }
@@ -63,11 +63,11 @@ iframe {
 .solform
 {
 	padding: 10px;
-	border: solid #777272 2px;
+	border: solid #45F7B9 2px;
     width: 500px;
     float: left;
     margin-top: 14px;
-    background-color: #F1CEEE;
+    background-color: #FFFFD8;
     height: 100%;
     border-radius: 20px 0px 0px 20px;
 }
@@ -79,7 +79,7 @@ iframe {
     width: 500px;
     float: right;
     margin-top: 14px;
-    background-color: #F1CEEE;
+    background-color: #D98EFF;
     height: 100%;	
     border-radius: 0px 20px 20px 0px;
 }
